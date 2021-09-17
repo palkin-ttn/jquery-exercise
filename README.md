@@ -26,7 +26,7 @@ Question 12. We have bind a click funtion to parent div but we want stop it from
 
 Question 13. Get the max height of elements using jquery "each" method.
 
-Question 14. Change color of every cell which has numberl larger than 10.
+Question 14. Change color of every cell which has number larger than 10.
 
 Question 15. Retrive the data from server using ajax get call.
 
